@@ -43,7 +43,7 @@ Go ahead and use Tux to create three instances of the Cat class:
 Cat.create(:name => "Maru", :age => 3, :breed => "Scottish Fold")
 Cat.create(:name => "Hannah", :age => 2, :breed => "Tabby")
 Cat.create(:name => "Patches", :age => 2, :breed => "Calico")
-```
+```tux
 
 And two instances of our Owner class:
 
